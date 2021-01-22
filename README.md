@@ -1,0 +1,1 @@
+A sample project based on Hapi JS demonstrating how to upload multiple files using form data.
