@@ -1,0 +1,24 @@
+{
+  "name": "upload-hapi",
+  "version": "1.0.0",
+  "description": "A sample application uploading documents to google bucket",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hapi",
+    "google-bucket",
+    "server",
+    "api"
+  ],
+  "author": "Kaveiros",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/hapi": "^20.0.3",
+    "formidable": "^1.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
